@@ -9,7 +9,7 @@ Christopher-Ho/Christopher-Ho is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--source - https://github.com/anuraghazra/github-readme-stats
+<!--source - https://github.com/anuraghazra/github-readme-stats -->
     
 <details>
     <summary>Click for GitHub Stats</summary>
@@ -18,4 +18,3 @@ You can click the Preview link to take a look at your changes.
         <br>
     </p>
     </details> 
--->
