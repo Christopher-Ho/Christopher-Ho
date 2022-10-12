@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development as a hobby.
 - 🌱 I’m currently learning machine learning, data structures/algorithms. 
 - 💞️ I’m looking to collaborate on... TBD
-- 📫 How to reach me: <a href="christopherho190@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/christopher-ho-191624143/">Linkedin</a>
+- 📫 How to reach me: christopherho190@gmail.com or <a href="https://www.linkedin.com/in/christopher-ho-191624143/">Linkedin</a>
 
 <!---
 Christopher-Ho/Christopher-Ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
