@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
     </p>
         <br>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnlangit&layout=compact)](https://github.com/Christopher-Ho/github-readme-stats" 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Ho&layout=compact)](https://github.com/Christopher-Ho/github-readme-stats" 
     </p>    
         </br>
     </details> 
